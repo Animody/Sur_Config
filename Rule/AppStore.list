@@ -1,0 +1,5 @@
+DOMAIN,apps.apple.com
+DOMAIN,iosapps.itunes.apple.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,appstore.com,AppStore
+USER-AGENT,com.apple.appstored*
