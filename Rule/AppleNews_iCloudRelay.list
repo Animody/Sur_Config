@@ -32,5 +32,5 @@ DOMAIN,mask-t.apple-dns.net
 DOMAIN,maskt.appledns.net
 DOMAIN,networking.privacy.subscriber
 DOMAIN-KEYWORD,-acsegateway.icloud.com
-IP-CIDR,17.0.0.0/8
+IP-CIDR,17.0.0.0/8,no-resolve
 USER-AGENT,Transparent%20network%20proxy%20for%20Apple%20system%20services*
