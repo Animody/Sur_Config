@@ -1,4 +1,7 @@
 #Apple
+DOMAIN-SUFFIX,vertexsmb.com // 验证免税状态
+DOMAIN-SUFFIX,appleschoolcontent.com // SFTP 上传
+DOMAIN-SUFFIX,axm-usercontent-apple.com  // 自定软件包图标
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,apple.co
@@ -6,13 +9,15 @@ DOMAIN-SUFFIX,applemusic.com
 DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,appstore.com
 DOMAIN-SUFFIX,appsto.re
-DOMAIN-SUFFIX,apzones.com
+DOMAIN-SUFFIX,apzones.com // 中国大陆的 iCloud 服务
 DOMAIN-SUFFIX,apple.comscoreresearch.com
 DOMAIN-SUFFIX,comscoreresearch.com
 DOMAIN-SUFFIX,crashlytics.com
-DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,entrust.net  // 证书验证
+DOMAIN-SUFFIX,digicert.com // 证书验证
+DOMAIN-SUFFIX,digicert.cn // 证书验证
 DOMAIN-SUFFIX,itunes.com
-DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,mzstatic.com  // 商店内容，如 App、图书和音乐
 DOMAIN-SUFFIX,organicfruitapps.com
 DOMAIN-SUFFIX,safebrowsing.apple
 DOMAIN-SUFFIX,apple-dns.net
@@ -32,12 +37,17 @@ DOMAIN-SUFFIX,apple.com.edgekey.net
 DOMAIN-SUFFIX,itunes.com.edgekey.net
 DOMAIN-SUFFIX,com.edgekey.net
 DOMAIN-SUFFIX,edgekey.net
+DOMAIN-SUFFIX,apple.com.edgesuite.net
+DOMAIN-SUFFIX,edgesuite.net  // 蜂窝网络运营商捆绑包更新
 DOMAIN-SUFFIX,ess.apple.com
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,ls.apple.com
 DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple
+DOMAIN-KEYWORD,app-site-association // 通用链接的关联域
+DOMAIN-KEYWORD,appldnld // iOS、iPadOS 和 watchOS 更新 蜂窝网络运营商捆绑包更新	
 DOMAIN-KEYWORD,testflight
 DOMAIN-KEYWORD,apple
 
