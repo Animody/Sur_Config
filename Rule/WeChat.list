@@ -318,8 +318,8 @@ IP-CIDR6,240E:FF:9018:100::/60,no-resolve
 IP-CIDR6,240E:FF:F100::/44,no-resolve
 
 # Servers Allocation While Launching 
-DOMAIN,szlong.weixin.qq.com
-DOMAIN,sglong.wechat.com
+# DOMAIN,szlong.weixin.qq.com
+# DOMAIN,sglong.wechat.com
 
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN,btrace.qq.com
