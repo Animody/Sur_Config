@@ -355,6 +355,7 @@ DOMAIN,stun.sip.us
 DOMAIN,stun.galeriemagnet.at
 DOMAIN,stun.fixup.net
 DOMAIN,stun.taxsee.com
+DOMAIN-KEYWORD,stun
 
 # [2404:6800:400b:c005::7f]:19305
 IP-CIDR6,2404:6800:400b:c005::7f/64,no-resolve
