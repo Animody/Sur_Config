@@ -95,6 +95,7 @@ DOMAIN-SUFFIX,gw-dv.net
 DOMAIN-SUFFIX,cdn-gw-dv.net
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
 
 # > asproex
 DOMAIN-SUFFIX,asproex.com
