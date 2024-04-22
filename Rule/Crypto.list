@@ -30,6 +30,13 @@ DOMAIN-SUFFIX,btcbox.co.jp
 DOMAIN-SUFFIX,cex.io
 DOMAIN-SUFFIX,dogecoin.com
 DOMAIN-SUFFIX,paxful.com
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,crypto.com
+DOMAIN-SUFFIX,dydx.exchange
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,probit.com
+DOMAIN-SUFFIX,upbit.com
 
 # > Binance
 DOMAIN-SUFFIX,binance.cc
