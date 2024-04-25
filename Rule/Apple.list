@@ -142,3 +142,18 @@ USER-AGENT,com.apple.appstored*
 USER-AGENT,com.apple.news*
 USER-AGENT,com.apple.tv*
 USER-AGENT,com.apple.trustd*
+
+# macOS exec
+PROCESS-NAME,CoreLocationAgent
+PROCESS-NAME,WeatherWidget
+PROCESS-NAME,apsd
+PROCESS-NAME,com.apple.Maps
+PROCESS-NAME,findmydevice-user-agent
+PROCESS-NAME,fmfd
+PROCESS-NAME,mapspushd
+PROCESS-NAME,netbiosd
+PROCESS-NAME,trustd
+PROCESS-NAME,com.apple.geod
+PROCESS-NAME,Music
+PROCESS-NAME,LookupViewService
+PROCESS-NAME,TV
