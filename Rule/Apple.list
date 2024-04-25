@@ -51,7 +51,6 @@ DOMAIN-KEYWORD,appldnld // iOS、iPadOS 和 watchOS 更新 蜂窝网络运营商
 DOMAIN-KEYWORD,smp-device
 DOMAIN-KEYWORD,testflight
 DOMAIN-KEYWORD,apple
-
 #iCloud
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,apple-icloud.cn
@@ -110,7 +109,6 @@ DOMAIN-KEYWORD,icloud
 DOMAIN-KEYWORD,icloud.com.akadns.net
 DOMAIN-KEYWORD,icoudo
 DOMAIN-KEYWORD,icoudos
-
 #IP&UA
 IP-CIDR,139.178.128.0/18
 IP-CIDR,144.178.0.0/19
@@ -143,7 +141,6 @@ USER-AGENT,com.apple.appstored*
 USER-AGENT,com.apple.news*
 USER-AGENT,com.apple.tv*
 USER-AGENT,com.apple.trustd*
-
 #macOS exec
 PROCESS-NAME,CoreLocationAgent
 PROCESS-NAME,WeatherWidget
