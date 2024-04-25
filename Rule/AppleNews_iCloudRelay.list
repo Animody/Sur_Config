@@ -1,5 +1,4 @@
-
-
+#AppleNews
 DOMAIN,configuration.ls.apple.com
 DOMAIN,gateway.icloud.com
 DOMAIN,gs-loc-cn.apple.com
@@ -17,7 +16,6 @@ DOMAIN-KEYWORD,-ssl.ls.apple.com
 USER-AGENT,AppleNews*
 USER-AGENT,com.apple.geod*
 USER-AGENT,com.apple.news*
-
 #(DEST-PORT: 443)
 DOMAIN,mask.apple-dns.net
 DOMAIN,mask.appledns.net
