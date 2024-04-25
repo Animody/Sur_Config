@@ -48,6 +48,7 @@ DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,apple
 DOMAIN-KEYWORD,app-site-association // 通用链接的关联域
 DOMAIN-KEYWORD,appldnld // iOS、iPadOS 和 watchOS 更新 蜂窝网络运营商捆绑包更新	
+DOMAIN-KEYWORD,smp-device
 DOMAIN-KEYWORD,testflight
 DOMAIN-KEYWORD,apple
 
