@@ -144,7 +144,7 @@ USER-AGENT,com.apple.news*
 USER-AGENT,com.apple.tv*
 USER-AGENT,com.apple.trustd*
 
-# macOS exec
+#macOS exec
 PROCESS-NAME,CoreLocationAgent
 PROCESS-NAME,WeatherWidget
 PROCESS-NAME,apsd
